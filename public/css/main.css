@@ -273,6 +273,13 @@ px
     color: black;
 }
 
+.copyright p {
+    margin-top: 25vh;
+    text-align: center;
+    margin-left: 85vh;
+}
+
+
 @media only screen and (max-width: 880px) {
   .header_nav_cmds {
     animation: fadeInAnimation ease 4s; 
