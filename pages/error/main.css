@@ -1,0 +1,21 @@
+
+html, body {
+    background-color: #1d1d1d;
+    background-image: url("https://freefrontend.com/assets/img/html-css-404-page-templates/HTML-404-Page-with-SVG.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+ 
+    animation: fadeInAnimation ease 4s; 
+    animation-fill-mode: forwards; 
+    animation-iteration-count: 1; 
+} 
+
+@keyframes fadeInAnimation { 
+ 0% { 
+ opacity: 0; 
+} 
+ 100% { 
+ opacity: 1; 
+ } 
+}
